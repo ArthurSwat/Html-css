@@ -1,0 +1,29 @@
+h1{
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+    border-width: 10px;
+    border:solid blue;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    outline-width: 10px;
+    outline-style: dashed;
+    outline-color: violet;
+}
+a{
+    padding: 20px;
+    border: solid red;
+    border-width:5px;
+    text-align: center;
+    margin: 30px;
+    background-color: crimson;
+    color: purple;
+}
+ h2{
+    border: 10px solid purple;
+    padding: 10px 10px 10px 10px;
+    margin: 40px 10px 30px 20px;
+
+
+ }

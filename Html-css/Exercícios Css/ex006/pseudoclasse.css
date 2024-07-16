@@ -1,0 +1,11 @@
+div{
+    background-color: lightskyblue;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 20px;
+    display: inline-block;
+}
+div:hover{
+    background-color: blueviolet;
+}

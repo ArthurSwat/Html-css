@@ -1,0 +1,16 @@
+#Corpo{
+    width: 800px;
+    height: 3000px; 
+    margin: auto;
+    background-color:#50C878;
+    border: solid blue 2px;
+}
+body{
+    text-align: center;
+    background-color:#8B4513;
+}
+#cabecalho{
+    background-image: linear-gradient( #FFD700 , black);
+   color:white;
+   height: 300px;
+}

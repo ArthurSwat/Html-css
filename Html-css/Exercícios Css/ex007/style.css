@@ -1,0 +1,10 @@
+
+h1{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid;
+    border-color: red;
+    outline: 5px solid blue;
+    
+}

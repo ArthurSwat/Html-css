@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    background-image: url(b67f3706-1b87-4f53-b1db-5dead620f823.jpg) ;
+    color: white;
+    
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+}

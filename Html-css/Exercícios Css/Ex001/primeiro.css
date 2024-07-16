@@ -1,0 +1,12 @@
+.Titulo{
+    background-color:purple;
+    color:black ;
+    font-family: fantasy;
+}
+#pag{
+    background-color: red;
+    color: bisque;
+}
+body{
+    background-color: aqua;
+}
